@@ -1,3 +1,5 @@
+# Code from tutorial found here: https://realpython.com/beautiful-soup-web-scraper-python/
+
 import requests
 from bs4 import BeautifulSoup
 
